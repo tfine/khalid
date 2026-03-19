@@ -1,0 +1,27 @@
+# Environment and secrets
+.env
+.env.*
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Working files not for public
+*.tmp
+drafts/
+._*
+.claude/
