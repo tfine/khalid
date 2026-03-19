@@ -23,5 +23,8 @@ venv/
 # Working files not for public
 *.tmp
 drafts/
+
+# Copyrighted glossary -- available locally for agent use, not for GitHub
+texts/book-of-khalid/glossary-khalid.md
 ._*
 .claude/
